@@ -21,7 +21,6 @@
         [80, "Omar"],
         [90, "Omar 1"],
         [100, "Omar 2"],
-        [110, "Baran"],
         [120, "Onkel Yussuf"]
     ],
 
